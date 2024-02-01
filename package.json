@@ -1,14 +1,11 @@
 {
-	"homepage": "https://alinapiccardo.github.io/irichallenge-back",
 	"name": "api",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "index.js",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"start": "index.js"
 	},
 	"keywords": [],
 	"author": "",
